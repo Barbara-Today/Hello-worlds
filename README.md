@@ -1,3 +1,2 @@
 # Hello-worlds
-podfjznxfvzxcv
-;lsjfhakjsdfljgzhlxkjbvkjzbxc;kjbv;zkjxcv
+I am a training project
